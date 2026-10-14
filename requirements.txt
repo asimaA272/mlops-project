@@ -1,0 +1,6 @@
+mlflow>=2.14,<3
+sqlalchemy>=2.0,<2.1
+starlette<1.0
+scikit-learn
+pandas
+numpy
